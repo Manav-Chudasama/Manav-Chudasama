@@ -3,15 +3,16 @@
 </div>
 
 <div align="center">
-  ### 🚀 Full Stack Developer | AI Enthusiast | Backend Architect
-  
-  [![Visitor Badge](https://komarev.com/ghpvc/?username=manav-chudasama&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/manav-chudasama)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavchudasama/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manav-Chudasama)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavchudasama2005@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManavChudasamaa)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/atmcVhyN)
+### 🚀 Full Stack Developer | AI Enthusiast | Backend Architect
+
+[![Visitor Badge](https://komarev.com/ghpvc/?username=manav-chudasama&label=PROFILE%20VIEWS&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logo=github&logoColor=000000)](https://github.com/manav-chudasama)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF)](https://linkedin.com/in/manavchudasama/)
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/Manav-Chudasama)
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF)](mailto:manavchudasama2005@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=000000&labelColor=FFFFFF)](https://x.com/ManavChudasamaa)
+[![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF)](https://discord.com/invite/atmcVhyN)
 
 </div>
 
