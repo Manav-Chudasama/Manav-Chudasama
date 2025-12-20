@@ -113,7 +113,7 @@ Passionate about software engineering, I aim to create impactful and innovative 
 
 ---
 
-### 🚀 Internship Experience & Projects
+### 🚀 Experience & Projects
 
 #### 🩺 [Medstra](https://medstra.in) — AI-Powered Medical Assessment
 
@@ -144,17 +144,26 @@ _AI-powered assistant for project management and work item lifecycle._
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-chudasama&show_icons=true&theme=transparent&hide_border=true&title_color=333&icon_color=000&text_color=555&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=manav-chudasama&theme=transparent&hide_border=true&stroke=000&sideNums=000&sideTitle=000&currStreakNum=000&currStreakLabel=000&fire=000" height="165" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manav-chudasama&theme=synthwave" height="180" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manav-chudasama&theme=synthwave" height="180" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-chudasama&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=555" height="165" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manav-chudasama&theme=transparent" height="165" alt="Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manav-chudasama&theme=synthwave" height="180" alt="Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manav-chudasama&theme=synthwave&utcOffset=8" height="180" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manav-chudasama&theme=github-compact&hide_border=true&area=true&color=000" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manav-chudasama&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=manav-chudasama&theme=synthwave" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manav-chudasama&theme=synthwave" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manav-chudasama&theme=synthwave-84&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
