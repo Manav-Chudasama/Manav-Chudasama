@@ -3,80 +3,83 @@
 </div>
 
 <div align="center">
-  <br />
+  ### 🚀 Full Stack Developer | AI Enthusiast | Backend Architect
   
-  # Manav Chudasama
-  ### Full Stack Developer • AI Explorer • Backend Enthusiast
-  
-  [![Visitor Badge](https://komarev.com/ghpvc/?username=manav-chudasama&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/manav-chudasama)
-  &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavchudasama/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ManavChudasamaa)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manavchudasama2005@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/atmcVhyN)
+  [![Visitor Badge](https://komarev.com/ghpvc/?username=manav-chudasama&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/manav-chudasama)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavchudasama/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manav-Chudasama)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavchudasama2005@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManavChudasamaa)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/atmcVhyN)
+
 </div>
 
 ---
 
-### 👨‍💻 Career Focus & About Me
+### 👨‍💻 Career Focus
 
-I am a **Full Stack Developer** currently pursuing my **B.Tech in IT at D.J. Sanghvi College of Engineering** (2024-2027). I specialize in building robust backend architectures and integrating AI capabilities into modern web applications.
-
-- 🚀 **Currently Building:** Scalable AI-powered applications and developer tools.
-- 💡 **Interests:** Backend Systems, Generative AI, and Open Source contributions.
-- 🎓 **Education:** Information Technology Undergraduate at DJSCE, Mumbai.
-- 🏆 **Achievement:** Passionate hackathon participant and problem solver.
+Passionate about software engineering, I aim to create impactful and innovative solutions. I enjoy exploring both front-end and back-end development and constantly strive to improve my skills. I value collaboration, tackling complex problems, and growing together as a team.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,php&theme=dark" alt="Languages" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs,jquery&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs,jquery,nodejs,express,mongodb,mysql,firebase,sanity&theme=dark" alt="Frameworks & DB" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,sanity,aws&theme=dark" alt="Backend & Cloud" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,git,github,gitlab,azure&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudinary,openai,reactnative,expo,android,vscode,androidstudio,idea,postman,git,github,gitlab&theme=dark" alt="Cloud & Tools" />
 </div>
+
+- **Gen AI:** Gemini Studio, Ollama, OpenAI
+- **Cloud & DevOps:** AWS S3, Cloudinary, Azure DevOps TFS
 
 ---
 
-### 🚀 Projects & Experience
+### 🚀 Internship Experience & Projects
 
-#### 🔹 [Project Name 1](https://github.com/manav-chudasama/repo-link)
+#### 🩺 [Medstra](https://medstra.in) — AI-Powered Medical Assessment
 
-_Brief description of the project and your role._
+_Full-stack platform for multilingual medical assessments._
 
-- Key feature 1
-- Key feature 2
+- Built with **Next.js, TypeScript, Tailwind, and MongoDB**; secured with **Clerk**.
+- Integrated **HeyGen AI avatar**, GPT-4, LiveKit, ElevenLabs, and Deepgram for real-time interaction.
+- Implemented **OCR (Tesseract.js)**, video processing (**FFmpeg**), and **AWS S3** for medical report generation.
+- Features role-based dashboards and AI-driven analytics.
 
-#### 🔹 [Project Name 2](https://github.com/manav-chudasama/repo-link)
+#### 🤖 [Timesheet Chatbot](https://timesheet-chatbot.vercel.app) — Azure DevOps Integration
 
-_Brief description of the project and your role._
+_AI-powered assistant for project management and work item lifecycle._
 
-- Key feature 1
-- Key feature 2
+- integrated with **Azure DevOps (TFS)** REST API and optimized **WIQL** queries.
+- Automated compliance enforcement via cron jobs and rule-based logic.
+- Powered by **Next.js, React, and Google Gemini LLM** for intent detection and reporting.
 
-> **Note:** Check out my [Repositories](https://github.com/manav-chudasama?tab=repositories) for more projects!
+---
+
+### 🏆 Awards & Achievements
+
+- 🥈 **2024** — Runner-up in the **State-Level Technical Research Paper Presentation** (MSBTE).
+- 🥇 **2023** — First Rank in **GMRT Online Science Exhibition** (Giant Metrewave Radio Telescope - NCRA - TIFR).
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-chudasama&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=888&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=manav-chudasama&theme=transparent&hide_border=true&stroke=007ACC&sideNums=007ACC&sideTitle=007ACC&currStreakNum=007ACC&currStreakLabel=007ACC&fire=007ACC" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manav-chudasama&show_icons=true&theme=transparent&hide_border=true&title_color=333&icon_color=000&text_color=555&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=manav-chudasama&theme=transparent&hide_border=true&stroke=000&sideNums=000&sideTitle=000&currStreakNum=000&currStreakLabel=000&fire=000" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-chudasama&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=888" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-chudasama&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=555" height="165" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manav-chudasama&theme=transparent" height="165" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manav-chudasama&theme=github-compact&hide_border=true&area=true&color=007ACC" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manav-chudasama&theme=github-compact&hide_border=true&area=true&color=000" width="100%" alt="Activity Graph" />
 </div>
 
 ---
